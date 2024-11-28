@@ -10,8 +10,8 @@ import PageNotFound from "./components/PageNotFound";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import store from "./redux/store.jsx";
 import { Provider } from "react-redux";
-import Register from "./components/register.jsx";
-import Login from "./components/login.jsx";
+import Register from "./components/Register.jsx";
+import Login from "./components/Login.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <Provider store={store}>
