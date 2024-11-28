@@ -4,7 +4,7 @@ function About() {
     <div>
       <Header
         headerText="Mekanbul"
-        motto="ReactJS Single Page Application (SPA)"
+        motto="Single Page Application (SPA)"
       />
     </div>
   );
